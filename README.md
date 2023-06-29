@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @xirrer
+- 🌱 I’m currently learning rust and JavaScript 
+- 📫 How to reach me: telegram: @storm_kit
