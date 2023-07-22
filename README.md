@@ -24,7 +24,7 @@
 ---
 
 ### :fire: My Stats : 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xirrer)](https://github.com/anuraghazra/github-readme-stats&theme=radial)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xirrer)](https://github.com/anuraghazra/github-readme-stats&theme=radial)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xirrer)](https://github.com/anuraghazra/github-readme-stats&show-icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xirrer)](https://github.com/anuraghazra/github-readme-stats&show-icons=true&theme=radcial)
 
 
