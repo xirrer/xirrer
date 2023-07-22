@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @xirrer
-- 🌱 I’m currently learning rust and JavaScript 
-- 📫 How to reach me: telegram: @storm_kit
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/art-loop-trippy-26DoiqmYcxgFICb3G" width="100"/>
+</div>
