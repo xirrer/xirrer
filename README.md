@@ -4,6 +4,7 @@
   <img src="https://media1.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
 
+### :woman_technologist: About Me :🌐Backend developer and fullstack developer
 
 ---
 
