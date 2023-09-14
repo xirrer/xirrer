@@ -4,6 +4,8 @@
   <img src="https://media1.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&separator=%3C&lines=class+Profile+%7B%3Cpublic%3A%3C++++const+std%3A%3Astring+Name+%3D+%22xirrer%22;%3C%7D;)](https://git.io/typing-svg)
+
 ### :woman_technologist: About Me :
 
 🌐Backend developer and fullstack developer
