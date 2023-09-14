@@ -5,7 +5,7 @@
 </div>
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&vCenter=true&multiline=true&width=435&height=200&separator=%3F&lines=%23include+%3Cstring%3E%0A%3Fclass+CProfile+%7B%0A%3F++++public%3A%0A%3F++++\t const+std%3A%3Astring+name+%3D+%22xirrer%22%3B%0A%3F%7D;"
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&vCenter=true&multiline=true&width=435&height=200&separator=%3F&lines=%23include+%3Cstring%3E%0A%3Fclass+CProfile+%7B%0A%3F++++public%3A%0A%3F++++ ++++const+std%3A%3Astring+name+%3D+%22xirrer%22%3B%0A%3F%7D;"
          alt="Typing SVG" />
 </a> 
 
